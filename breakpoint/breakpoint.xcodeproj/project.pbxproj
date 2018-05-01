@@ -20,6 +20,7 @@
 		F7F790BA2098EFF4000A57A4 /* LoginVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7F790B92098EFF4000A57A4 /* LoginVC.swift */; };
 		F7F790BC2098F04F000A57A4 /* InsetTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7F790BB2098F04F000A57A4 /* InsetTextField.swift */; };
 		F7F790BE2098F4DE000A57A4 /* ShadowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7F790BD2098F4DE000A57A4 /* ShadowView.swift */; };
+		F7F790C02098F88F000A57A4 /* AuthService.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7F790BF2098F88F000A57A4 /* AuthService.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -40,6 +41,7 @@
 		F7F790B92098EFF4000A57A4 /* LoginVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginVC.swift; sourceTree = "<group>"; };
 		F7F790BB2098F04F000A57A4 /* InsetTextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InsetTextField.swift; sourceTree = "<group>"; };
 		F7F790BD2098F4DE000A57A4 /* ShadowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShadowView.swift; sourceTree = "<group>"; };
+		F7F790BF2098F88F000A57A4 /* AuthService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AuthService.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -145,6 +147,7 @@
 			isa = PBXGroup;
 			children = (
 				F7DF4B4F2097BBF300EF9A16 /* DataService.swift */,
+				F7F790BF2098F88F000A57A4 /* AuthService.swift */,
 			);
 			path = Services;
 			sourceTree = "<group>";
@@ -288,6 +291,7 @@
 				F7F790B82098EFAE000A57A4 /* AuthVC.swift in Sources */,
 				F752EB5B2097AF1500E3E6DD /* SecondViewController.swift in Sources */,
 				F7F790BA2098EFF4000A57A4 /* LoginVC.swift in Sources */,
+				F7F790C02098F88F000A57A4 /* AuthService.swift in Sources */,
 				F752EB572097AF1500E3E6DD /* AppDelegate.swift in Sources */,
 				F7F790BE2098F4DE000A57A4 /* ShadowView.swift in Sources */,
 				F752EB592097AF1500E3E6DD /* FirstViewController.swift in Sources */,
